@@ -5,6 +5,7 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+    overflow: hidden;
 }
 
 li a, i {
@@ -84,7 +85,7 @@ h1 {
 }
 
 #imagesou {
-    padding: 70px 0%;
+    padding: 51px 0%;
 }
 
 footer {
